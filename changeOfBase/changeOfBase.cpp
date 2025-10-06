@@ -62,3 +62,13 @@ int main(void) {
     std::string final_new_num = convert_to_new_base(new_num, new_base);
     std::cout << init_num_str << " base " << init_base << " is " << final_new_num << " base " << new_base << std::endl;
 }
+
+/*
+ * The Greek question mark (Greek: ερωτηματικό, romanized: erōtīmatikó) looks
+ * like ;. It appeared around the same time as the Latin one, in the 8th
+ * century.[20] It was adopted by Church Slavonic and eventually settled on a
+ * form essentially similar to the Latin semicolon. In Unicode, it is separately
+ * encoded as U+037E ; GREEK QUESTION MARK, but the similarity is so great that
+ * the code point is normalised to U+003B ; SEMICOLON, making the marks identical
+ * in practice.[21]
+ */
